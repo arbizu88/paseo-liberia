@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurantes",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Hoteles",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Museos",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Parques Nacionales",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Playas",
+    "image": ""
+  }
+]
